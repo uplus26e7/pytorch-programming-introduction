@@ -1,6 +1,6 @@
 # 動かしながら学ぶ PyTorch プログラミング入門
 
-「[動かしながら学ぶ PyTorch プログラミング入門](https://www.amazon.co.jp/dp/B08PBH4YNT/ref=cm_sw_r_tw_dp_x_sdy0Fb4R42XKN)」のコードを写経していくリポジトリです。
+「[動かしながら学ぶ PyTorch プログラミング入門](https://www.amazon.co.jp/dp/B08PBH4YNT/ref=cm_sw_r_tw_dp_x_sdy0Fb4R42XKN)」を読んだときのソースコード置き場です。
 
 ![表紙](https://m.media-amazon.com/images/I/51ofaSX1jlL._SX260_.jpg)
 
@@ -11,4 +11,4 @@
 - [x] Chapter4 畳み込みニューラルネットワークを学ぶ　～画像分類プログラムを作る～
 - [x] Chapter5 再帰型ニューラルネットワーク（時系列データの予測）　～株価予測プログラムを作る～
       Web アプリはスキップ
-- [ ] Chapter6 再帰型ニューラルネットワークを用いた感情分析
+- [x] Chapter6 再帰型ニューラルネットワークを用いた感情分析
